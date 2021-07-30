@@ -1,10 +1,11 @@
-# Oie! Sou a Giovana Macedo 👋
+# System.out.println("Hi, there! 👋 I'm Gio Macedo.");
 
-### 💻 Estagiária em IT Operations na BAT
+### 💻 Systems Analysis and Development Student
 
-- 📘 Iniciante na programação e amante do conhecimento.
-- 💡 Focando em Front-End
-- 📫 Contate-me: giovanaml12@gmail.com
+- 👩‍💻 18 years | Anime and manga lover | Brazil
+- 📘 Beginner in programming and knowledge lover.
+- 💡 Focusing on Front-End
+- 📫 Contact me: giovanaml12@gmail.com
 
 #
 
@@ -14,7 +15,7 @@
 </div>
 
 #
-### 📍 Minhas linguagens:
+### 📍 Languages:
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
