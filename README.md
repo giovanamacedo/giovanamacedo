@@ -5,6 +5,7 @@
 - 👩‍💻 18 years | Anime and manga lover | Brazil
 - 📘 Beginner in programming and knowledge lover.
 - 💡 Focusing on Front-End
+- 📢 I'm learning english, puedo hablar un poquito de español e minha língua materna é português brasileiro.
 - 📫 Contact me: giovanaml12@gmail.com
 
 #
