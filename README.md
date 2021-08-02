@@ -1,19 +1,20 @@
+<a href="https://github.com/giovanamacedo">
+<img align="right" img height="170em" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=giovanamacedo&theme=dracula&show_icons=true"/>
+</a>
+
 # System.out.println("Hi, there! 👋 I'm Gio Macedo.");
 
 ### 💻 Systems Analysis and Development Student
 
-- 👩‍💻 18 years | Anime and manga lover | Brazil
-- 📘 Beginner in programming and knowledge lover.
-- 💡 Focusing on Front-End
-- 📢 I'm learning english, puedo hablar un poquito de español e minha língua materna é português brasileiro.
-- 📫 Contact me: giovanaml12@gmail.com
-
-#
-
-<div>
-  <a href="https://github.com/giovanamacedo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giovanamacedo&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-</div>
+  - 👩‍💻 18 years | Anime and manga lover | Brazil.
+  - 📘 Beginner in programming and knowledge lover.
+  - 💡 Focusing on Front-End.
+  - 📢 I'm learning english, puedo hablar un poquito de español e minha língua materna é português brasileiro.
+  - 📫 Contact me: giovanaml12@gmail.com
+  
+<a href="https://github.com/giovanamacedo">
+ <img align="right" img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanamacedo&layout=compact&theme=dracula"/>
+</a>
 
 #
 ### 📍 Languages:
