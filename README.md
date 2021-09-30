@@ -9,8 +9,7 @@
   - 👩‍💻 18 years | Anime and manga lover | Brazil.
   - 📘 Beginner in programming and knowledge lover.
   - 💡 Focusing on Front-End.
-  - 📢 I'm learning english, puedo hablar un poquito de español e minha língua materna é português brasileiro.
-  - 📫 Contact me: giovanaml12@gmail.com
+  - 📢 I'm learning english, puedo hablar un poquito de español e falo português.
   
 <a href="https://github.com/giovanamacedo">
  <img align="right" img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanamacedo&layout=compact&theme=dracula"/>
