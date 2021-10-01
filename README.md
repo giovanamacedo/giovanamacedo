@@ -6,7 +6,7 @@
 
 ### 💻 Systems Analysis and Development Student
 
-  - 👩‍💻 18 years | Anime and manga lover | Brazil.
+  - 👩‍💻 19 years | Anime and manga lover | Brazil.
   - 📘 Beginner in programming and knowledge lover.
   - 💡 Focusing on Front-End.
   - 📢 I'm learning english, puedo hablar un poquito de español e falo português.
