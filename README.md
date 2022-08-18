@@ -8,7 +8,7 @@
 
   - 👩‍💻 19 years | Anime and manga lover | Brazil.
   - 📘 Beginner in programming and knowledge lover.
-  - 💡 Focusing on Front-End.
+  - 💡 Focusing on Back-End.
   - 📢 I'm learning english, puedo hablar un poquito de español e falo português.
   
 <a href="https://github.com/giovanamacedo">
