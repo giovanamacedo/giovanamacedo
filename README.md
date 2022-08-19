@@ -4,7 +4,7 @@
 
 # System.out.println("Hi, there! 👋 I'm Gio Macedo.");
 
-### 💻 Systems Analysis and Development Student
+### 💻 Junior Developer
 
   - 👩‍💻 19 years | Anime and manga lover | Brazil.
   - 📘 Beginner in programming and knowledge lover.
