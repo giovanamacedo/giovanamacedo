@@ -2,9 +2,9 @@
 
 > 💻 Dev Backend Júnior <br>
 
-🎂 20 anos apaixonada por jogos, animes e mangás. O meu preferido é Berserk :) <br>
+🎂 21 anos apaixonada por jogos, animes e mangás. O meu preferido é Berserk :) <br>
 👩🏻‍🎓 Formada em ADS - Bolsista PROUNI 100% com muito orgulho. <br>
-💼 Trabalho na EY - Projeto Petrobrás Soluções Digitais desenvolvendo e realizando sustentações no software GINSPEQ (Gestão e Inspeção de Equipamentos) que mantém refinarias do Brasil inteiro!
+💼 Desenvolvedora Java Júnior
 
 ---
 
@@ -15,16 +15,6 @@
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"></code>
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
-
----
-
-### ✨ Social e Games
-
-🔗 | 💭
------------- | -------------
-<img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" /> | Gisuna#4576
-<img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" /> | gisuna
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> | `https://www.linkedin.com/in/giovana-leal/`
 
 ---
 
