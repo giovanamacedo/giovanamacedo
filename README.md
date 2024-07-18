@@ -15,8 +15,3 @@
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"></code>
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
-
----
-
-### 🐙 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=giovanamacedo&layout=compact&theme=dracula)
